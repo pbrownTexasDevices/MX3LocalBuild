@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="MX3Hydration.MainTabPage"
+    xmlns:me="clr-namespace:MX3Hydration;assembly=MX3Hydration">
+
+    <TabbedPage.Children>
+
+        <!--<NavigationPage Title="Dashboard" Icon = "toolbarIcons/dashboardIcon.png">
+            <x:Arguments><me:DashboardPage/></x:Arguments>
+        </NavigationPage>-->
+
+       <NavigationPage Title="Players" Icon = "toolbarIcons/playerIcon.png">
+            <x:Arguments><me:PlayerPage/></x:Arguments>
+        </NavigationPage>
+
+        <NavigationPage Title="Trainers" Icon = "toolbarIcons/trainerIcon.png">
+            <x:Arguments><me:TrainerPage/></x:Arguments> 
+        </NavigationPage>
+
+        <NavigationPage Title="Coaches" Icon = "toolbarIcons/coachIcon.png">
+            <x:Arguments><me:CoachPage/></x:Arguments> 
+        </NavigationPage>
+
+        <NavigationPage Title="Settings" Icon = "toolbarIcons/settingsIcon.png">
+            <x:Arguments><me:SettingsPage/></x:Arguments> 
+        </NavigationPage>
+
+        <!--<me:PlayerPage Icon = "toolbarIcons/playerIcon.png"/>
+
+        <me:TrainerPage Icon = "toolbarIcons/trainerIcon.png"/>
+
+        <me:CoachPage Icon = "toolbarIcons/coachIcon.png"/>
+
+        <me:SettingsPage Icon = "toolbarIcons/settingsIcon.png"/>-->
+
+    </TabbedPage.Children>
+    
+</TabbedPage>

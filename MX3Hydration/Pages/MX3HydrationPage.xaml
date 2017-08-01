@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:MX3Hydration" x:Class="MX3Hydration.MX3HydrationPage">
+
+    <StackLayout
+        HorizontalOptions="Fill"
+        VerticalOptions="Start"
+        Padding="50"
+        >
+
+        <Image 
+            Source="logo/logo.png"
+            x:Name="LogoImage"
+            WidthRequest="300"
+            VerticalOptions="Start"
+            Margin="0, 10, 0, 70"/>
+
+        <Entry
+            Placeholder="Username"
+            x:Name="UsernameEntry"
+            Margin="100, 0, 100, 0"
+            WidthRequest="300"
+            FontSize="25"
+            HorizontalTextAlignment="Center"/>
+        
+        <Entry 
+            Placeholder="Password"
+            x:Name="PasswordEntry"
+            Margin="100, 10, 100, 0"
+            FontSize="25"
+            HorizontalTextAlignment="Center"
+            IsPassword="true"/>
+        
+        <Button
+            Text="Log in"
+            x:Name="LoginButton"
+            BackgroundColor="#35cbdc"
+            TextColor="White"
+            FontSize="35"
+            Margin="250, 20, 250, 20"
+            Clicked="Handle_Clicked"/>
+
+    </StackLayout>
+</ContentPage>

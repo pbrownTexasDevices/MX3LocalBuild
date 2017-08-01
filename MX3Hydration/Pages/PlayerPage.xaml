@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MasterDetailPage 
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="MX3Hydration.PlayerPage"
+    xmlns:converters="clr-namespace:MX3Hydration.Converters;assembly=MX3Hydration"
+    MasterBehavior="Split"
+    Title="Players">
+
+    <MasterDetailPage.Resources>
+        <ResourceDictionary>
+            <converters:HydrationToColorConverter x:Key="HydrationToColorConverter"/>
+        </ResourceDictionary>
+    </MasterDetailPage.Resources>
+    
+    <MasterDetailPage.Master>
+
+        <ContentPage BackgroundColor="Gray" Title="Players">
+
+            <ContentPage.Content>
+
+            <StackLayout VerticalOptions="Start"
+                    Orientation= "Vertical"
+                    Spacing = "10">
+
+                    <Label Text = "List Ordering"
+                        TextColor = "White"
+                        HorizontalOptions = "Center"
+                    Margin = "0, 10, 0, 0"/>
+
+                    <Picker
+                    x:Name="PlayerOrderPicker"
+                        SelectedIndexChanged = "Handle_SelectedIndexChanged"
+                    HorizontalOptions = "FillAndExpand"
+                    VerticalOptions = "Center"
+                         Margin = "10, 0, 10, 10">
+
+                    <Picker.Items>
+                        <x:String>Hydration Level Up</x:String> 
+                            <x:String>Hydration Level Down</x:String>
+                        <x:String>Name</x:String>
+                    </Picker.Items>
+
+                </Picker>
+                            
+
+                <ListView
+                    x:Name="PlayerListView"
+                    HasUnevenRows="false"
+                    RowHeight="80"
+                    ItemSelected="Handle_ItemSelected"
+                    VerticalOptions="StartAndExpand">
+
+                    <ListView.ItemTemplate>
+
+                        <DataTemplate>
+
+                            <ViewCell>
+
+                                    <ViewCell.ContextActions>
+                                        <MenuItem Text="More" />
+                                        <MenuItem Text="Delete" IsDestructive="True" />
+                                     </ViewCell.ContextActions>
+
+                                <StackLayout
+                                    Orientation="Horizontal"
+                                    HorizontalOptions="FillAndExpand"
+                                    VerticalOptions="FillAndExpand">
+
+                                        <AbsoluteLayout
+                                            HorizontalOptions="Start"
+                                            VerticalOptions="FillAndExpand"
+                                            Padding="10, 0, 0, 0">
+
+                                            <Image Source="{Binding Readings[0].ReadingLevel, StringFormat = 'pieFill/waterLevel{0}.png'}"
+                                                AbsoluteLayout.LayoutBounds=".5, .5, 60, 60" AbsoluteLayout.LayoutFlags="PositionProportional"/>
+
+                                            <Image Source="placeHolder/playerPic.png"
+                                                AbsoluteLayout.LayoutBounds=".5, .5, 50, 50" AbsoluteLayout.LayoutFlags="PositionProportional" Margin="0"/>
+
+                                        </AbsoluteLayout>
+
+                                    <!--<Image
+                                       Source="{Binding Readings[0].ReadingLevel, StringFormat = 'waterlevel{0}.png'}" 
+                                        HorizontalOptions="Start"/>-->
+
+                                    <StackLayout 
+                                        Orientation="Vertical"
+                                        HorizontalOptions="FillAndExpand"
+                                        VerticalOptions="Center"
+                                            Padding="10">
+
+                                        <StackLayout
+                                            Orientation="Horizontal"
+                                            HorizontalOptions="FillAndExpand">
+
+                                            <Label
+                                                Text="{Binding Name}"
+                                                HorizontalOptions = "StartAndExpand"
+                                                HorizontalTextAlignment="Start"
+                                                FontAttributes="Bold"/>
+
+                                            <Label 
+                                                Text="{Binding Number, StringFormat = '#{0}'}"
+                                                HorizontalOptions = "End"
+                                                HorizontalTextAlignment = "End"/>
+
+                                        </StackLayout>
+
+                                        <Label
+                                            Text="{Binding Readings[0].Date, StringFormat = 'Last Reading: {0:HH:mm tt}'}"
+                                            FontSize="15"
+                                            TextColor="Gray"/>
+
+                                    </StackLayout>
+
+                                </StackLayout>
+
+                            </ViewCell>
+
+                        </DataTemplate>
+
+                    </ListView.ItemTemplate>
+
+                </ListView>
+
+                <!--<BoxView WidthRequest="1"
+                        BackgroundColor="Gray"/>-->
+
+            </StackLayout>
+
+            </ContentPage.Content>
+
+        </ContentPage>
+
+    </MasterDetailPage.Master>
+
+
+    <MasterDetailPage.Detail>
+
+        <ContentPage
+            BackgroundColor="#d9dbe0">
+
+            <ContentPage.Content>
+
+                <!--StackLayout contains a gray seperator bar and the scrollview-->
+
+                <StackLayout
+                    Orientation="Horizontal"
+                    VerticalOptions="FillAndExpand">
+
+                    <BoxView WidthRequest="1"
+                            BackgroundColor="Gray"
+                    Margin="0"/>
+
+                    <!--Scrollview contains all the information for each player instance, all data and functionality is in here-->
+                    <ScrollView
+                        x:Name="DetailScrollView"
+                        Orientation = "Vertical"
+                        VerticalOptions="StartAndExpand"
+                        HorizontalOptions="FillAndExpand">
+
+                            <!--StackLayout Organizes vertical card nodes and profile image-->
+                            <StackLayout
+                                Padding="15, 50, 20, 0"
+                                HorizontalOptions="FillAndExpand">
+                            
+                                <Image
+                                    Margin="0, 0, 0, 30"
+                                    HorizontalOptions="Center"
+                                    WidthRequest="250"
+                                    Source="placeHolder/playerPic.png"/>
+
+                                <!--StackLayout operates as a white box node-->
+                                <StackLayout
+                                    Orientation="Vertical"
+                                    Padding="30, 20, 30, 20"
+                                    BackgroundColor="White">
+
+                                    <!--StackLayout contains top bar of white box node with name and player number. It is the top sub-node-->
+                                    <StackLayout
+                                        Orientation="Horizontal">
+
+                                        <Label
+                                            Text="{Binding Name}"
+                                            Font="Bold, 30"
+                                            HorizontalOptions="StartAndExpand"
+                                            HorizontalTextAlignment = "Start"/>
+
+                                        <Label
+                                            Text="{Binding Number, StringFormat = '#{0}'}"
+                                            Font="Bold, 30"
+                                            HorizontalOptions="EndAndExpand"
+                                            HorizontalTextAlignment="End"/>
+                                    </StackLayout>
+
+
+                                <BoxView 
+                                    HeightRequest = "1"
+                                    BackgroundColor="Gray"
+                                    Margin="0, 0, 0, 10"/>
+
+
+                                <!--StackLayout holds more specific data in a smaller text format. It is under the top sub-node -->    
+                                <StackLayout>
+
+                                    <Label
+                                        Text="{Binding Kind}"
+                                        FontSize="15"/>
+                                    
+                                    <Label
+                                        Text="{Binding Weight, StringFormat = 'Weight: {0} pounds'}"
+                                        FontSize="15"/>
+
+                                </StackLayout>
+                                        
+                            </StackLayout>
+
+                            <!--StackLayout is another colored box node with the hydration reading in it.-->
+                            <StackLayout
+                                Orientation="Vertical"
+                                Margin = "0, 20, 0, 0"
+                                Padding="50, 20, 50, 20"
+                                BackgroundColor="{Binding Readings[0].ReadingLevel, Converter={StaticResource HydrationToColorConverter}}">
+
+                                <Label
+                                    Text="{Binding Readings[0].ReadingLevel, StringFormat = 'Last Hydration: {0}'}"
+                                    Font="Bold, 30"
+                                    TextColor="White"
+                                    HorizontalOptions="Center"
+                                    HorizontalTextAlignment="Center"/>
+
+                            </StackLayout>
+
+                            <!--StackLayout Contains title and list of hydration times.-->
+                            <StackLayout
+                                BackgroundColor="White"
+                                Margin = "0, 20, 0, 0"
+                                Padding="30, 20, 30, 20">
+                                
+                                <Label
+                                    Text="Hydration Readings"
+                                    Font="Bold, 30" 
+                                    HorizontalOptions = "Center"
+                                    HorizontalTextAlignment = "Center"/>
+
+                                <BoxView 
+                                    HeightRequest = "1"
+                                    BackgroundColor="Gray"
+                                    Margin="0, 0, 0, 10"/>
+
+                                <Image
+                                    Margin="0, 0, 0, 15"
+                                    HorizontalOptions="CenterAndExpand"
+                                    Source="graph"/>
+
+                                <ListView
+                                    ItemsSource="{Binding Readings}"
+                                    HorizontalOptions = "Center"
+                                    HeightRequest="300">
+
+                                    <ListView.ItemTemplate>
+
+                                        <DataTemplate>
+
+                                            <ViewCell>
+
+                                                <StackLayout
+                                                    Orientation="Horizontal"
+                                                    VerticalOptions="Center"
+                                                    Padding="20, 10, 20, 10">
+
+                                                    <Label
+                                                        Text="{Binding Date}"
+                                                        Font="Regular, 15"
+                                                        FontFamily="Courier"
+                                                        HorizontalOptions="StartAndExpand"
+                                                        HorizontalTextAlignment = "Start"
+                                                        VerticalOptions="Center"/>
+
+                                                    <Label
+                                                        Text="{Binding ReadingLevel}"
+                                                        Font="Bold, 20"
+                                                        FontFamily="Courier"
+                                                        TextColor="{Binding ReadingLevel, Converter={StaticResource HydrationToColorConverter}}"
+                                                        HorizontalOptions="EndAndExpand"
+                                                        HorizontalTextAlignment="End"
+                                                        VerticalOptions="Center"/>
+                                                    
+                                                </StackLayout>
+
+                                                
+                                                
+                                            </ViewCell>
+
+                                        </DataTemplate>
+
+                                    </ListView.ItemTemplate>
+                                    
+                                </ListView>
+                                
+                            </StackLayout>
+                        </StackLayout>
+                    </ScrollView>
+                </StackLayout>
+            </ContentPage.Content>
+        </ContentPage>
+    </MasterDetailPage.Detail>
+
+
+</MasterDetailPage>

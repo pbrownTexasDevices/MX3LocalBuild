@@ -1,0 +1,80 @@
+/Users/prestonbrown/Projects/MX3Hydration/MX3Hydration/obj/Debug/MX3Hydration.csprojResolveAssemblyReference.cache
+/Users/prestonbrown/Projects/MX3Hydration/MX3Hydration/obj/Debug/MX3Hydration.csproj.CoreCompileInputs.cache
+/Users/prestonbrown/Projects/MX3Hydration/MX3Hydration/bin/Debug/MX3Hydration.dll
+/Users/prestonbrown/Projects/MX3Hydration/MX3Hydration/bin/Debug/MX3Hydration.pdb
+/Users/prestonbrown/Projects/MX3Hydration/MX3Hydration/bin/Debug/Xamarin.Forms.Core.dll
+/Users/prestonbrown/Projects/MX3Hydration/MX3Hydration/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/prestonbrown/Projects/MX3Hydration/MX3Hydration/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/prestonbrown/Projects/MX3Hydration/MX3Hydration/bin/Debug/Xamarin.Forms.Core.pdb
+/Users/prestonbrown/Projects/MX3Hydration/MX3Hydration/bin/Debug/Xamarin.Forms.Core.dll.mdb
+/Users/prestonbrown/Projects/MX3Hydration/MX3Hydration/bin/Debug/Xamarin.Forms.Core.xml
+/Users/prestonbrown/Projects/MX3Hydration/MX3Hydration/bin/Debug/Xamarin.Forms.Platform.pdb
+/Users/prestonbrown/Projects/MX3Hydration/MX3Hydration/bin/Debug/Xamarin.Forms.Platform.dll.mdb
+/Users/prestonbrown/Projects/MX3Hydration/MX3Hydration/bin/Debug/Xamarin.Forms.Xaml.pdb
+/Users/prestonbrown/Projects/MX3Hydration/MX3Hydration/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
+/Users/prestonbrown/Projects/MX3Hydration/MX3Hydration/bin/Debug/Xamarin.Forms.Xaml.xml
+/Users/prestonbrown/Projects/MX3Hydration/MX3Hydration/obj/Debug/MX3Hydration.App.xaml.g.cs
+/Users/prestonbrown/Projects/MX3Hydration/MX3Hydration/obj/Debug/MX3Hydration.Pages.CoachPage.xaml.g.cs
+/Users/prestonbrown/Projects/MX3Hydration/MX3Hydration/obj/Debug/MX3Hydration.Pages.MainTabPage.xaml.g.cs
+/Users/prestonbrown/Projects/MX3Hydration/MX3Hydration/obj/Debug/MX3Hydration.Pages.MX3HydrationPage.xaml.g.cs
+/Users/prestonbrown/Projects/MX3Hydration/MX3Hydration/obj/Debug/MX3Hydration.Pages.PlayerPage.xaml.g.cs
+/Users/prestonbrown/Projects/MX3Hydration/MX3Hydration/obj/Debug/MX3Hydration.Pages.TrainerPage.xaml.g.cs
+/Users/prestonbrown/Projects/MX3Hydration/MX3Hydration/obj/Debug/MX3Hydration.dll
+/Users/prestonbrown/Projects/MX3Hydration/MX3Hydration/obj/Debug/MX3Hydration.pdb
+/Users/prestonbrown/Projects/MX3Hydration/MX3Hydration/bin/Debug/crypto.dll
+/Users/prestonbrown/Projects/MX3Hydration/MX3Hydration/bin/Debug/Firebase.Xamarin.dll
+/Users/prestonbrown/Projects/MX3Hydration/MX3Hydration/bin/Debug/JWT.dll
+/Users/prestonbrown/Projects/MX3Hydration/MX3Hydration/bin/Debug/Newtonsoft.Json.dll
+/Users/prestonbrown/Projects/MX3Hydration/MX3Hydration/bin/Debug/System.Reactive.Core.dll
+/Users/prestonbrown/Projects/MX3Hydration/MX3Hydration/bin/Debug/System.Reactive.Interfaces.dll
+/Users/prestonbrown/Projects/MX3Hydration/MX3Hydration/bin/Debug/System.Reactive.Linq.dll
+/Users/prestonbrown/Projects/MX3Hydration/MX3Hydration/bin/Debug/System.Reactive.PlatformServices.dll
+/Users/prestonbrown/Projects/MX3Hydration/MX3Hydration/bin/Debug/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/prestonbrown/Projects/MX3Hydration/MX3Hydration/bin/Debug/Newtonsoft.Json.xml
+/Users/prestonbrown/Projects/MX3Hydration/MX3Hydration/bin/Debug/System.Reactive.Interfaces.xml
+/Users/prestonbrown/Projects/MX3Hydration/MX3Hydration/bin/Debug/System.Reactive.Core.xml
+/Users/prestonbrown/Projects/MX3Hydration/MX3Hydration/bin/Debug/System.Reactive.Linq.xml
+/Users/prestonbrown/Projects/MX3Hydration/MX3Hydration/bin/Debug/System.Reactive.PlatformServices.xml
+/Users/prestonbrown/Projects/MX3Hydration/MX3Hydration/obj/Debug/MX3Hydration.Pages.SettingsPage.xaml.g.cs
+/Users/prestonbrown/Projects/MX3Hydration/MX3Hydration/obj/Debug/MX3Hydration.Pages.DashboardPage.xaml.g.cs
+/Users/prestonbrown/Projects/MX3Hydration/MX3Hydration/bin/Debug/AudioManager.dll
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/MX3Hydration/bin/Debug/MX3Hydration.dll
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/MX3Hydration/bin/Debug/MX3Hydration.pdb
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/MX3Hydration/bin/Debug/AudioManager.dll
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/MX3Hydration/bin/Debug/crypto.dll
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/MX3Hydration/bin/Debug/Firebase.Xamarin.dll
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/MX3Hydration/bin/Debug/JWT.dll
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/MX3Hydration/bin/Debug/Newtonsoft.Json.dll
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/MX3Hydration/bin/Debug/System.Reactive.Core.dll
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/MX3Hydration/bin/Debug/System.Reactive.Interfaces.dll
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/MX3Hydration/bin/Debug/System.Reactive.Linq.dll
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/MX3Hydration/bin/Debug/System.Reactive.PlatformServices.dll
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/MX3Hydration/bin/Debug/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/MX3Hydration/bin/Debug/Xamarin.Forms.Core.dll
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/MX3Hydration/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/MX3Hydration/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/MX3Hydration/bin/Debug/System.Reactive.Interfaces.xml
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/MX3Hydration/bin/Debug/System.Reactive.Core.xml
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/MX3Hydration/bin/Debug/System.Reactive.Linq.xml
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/MX3Hydration/bin/Debug/System.Reactive.PlatformServices.xml
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/MX3Hydration/bin/Debug/Newtonsoft.Json.xml
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/MX3Hydration/bin/Debug/Xamarin.Forms.Core.pdb
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/MX3Hydration/bin/Debug/Xamarin.Forms.Core.dll.mdb
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/MX3Hydration/bin/Debug/Xamarin.Forms.Core.xml
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/MX3Hydration/bin/Debug/Xamarin.Forms.Platform.pdb
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/MX3Hydration/bin/Debug/Xamarin.Forms.Platform.dll.mdb
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/MX3Hydration/bin/Debug/Xamarin.Forms.Xaml.pdb
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/MX3Hydration/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/MX3Hydration/bin/Debug/Xamarin.Forms.Xaml.xml
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/MX3Hydration/obj/Debug/MX3Hydration.csprojResolveAssemblyReference.cache
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/MX3Hydration/obj/Debug/MX3Hydration.csproj.CoreCompileInputs.cache
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/MX3Hydration/obj/Debug/MX3Hydration.App.xaml.g.cs
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/MX3Hydration/obj/Debug/MX3Hydration.Pages.CoachPage.xaml.g.cs
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/MX3Hydration/obj/Debug/MX3Hydration.Pages.MainTabPage.xaml.g.cs
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/MX3Hydration/obj/Debug/MX3Hydration.Pages.MX3HydrationPage.xaml.g.cs
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/MX3Hydration/obj/Debug/MX3Hydration.Pages.PlayerPage.xaml.g.cs
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/MX3Hydration/obj/Debug/MX3Hydration.Pages.TrainerPage.xaml.g.cs
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/MX3Hydration/obj/Debug/MX3Hydration.Pages.SettingsPage.xaml.g.cs
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/MX3Hydration/obj/Debug/MX3Hydration.Pages.DashboardPage.xaml.g.cs
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/MX3Hydration/obj/Debug/MX3Hydration.dll
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/MX3Hydration/obj/Debug/MX3Hydration.pdb

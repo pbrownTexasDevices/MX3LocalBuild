@@ -1,0 +1,252 @@
+/Users/prestonbrown/Projects/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/MX3Hydration.iOS.exe
+/Users/prestonbrown/Projects/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/MX3Hydration.iOS.pdb
+/Users/prestonbrown/Projects/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/MX3Hydration.dll
+/Users/prestonbrown/Projects/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/prestonbrown/Projects/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/prestonbrown/Projects/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/prestonbrown/Projects/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/prestonbrown/Projects/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/MX3Hydration.pdb
+/Users/prestonbrown/Projects/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.pdb
+/Users/prestonbrown/Projects/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll.mdb
+/Users/prestonbrown/Projects/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.xml
+/Users/prestonbrown/Projects/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.pdb
+/Users/prestonbrown/Projects/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll.mdb
+/Users/prestonbrown/Projects/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.pdb
+/Users/prestonbrown/Projects/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll.mdb
+/Users/prestonbrown/Projects/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.xml
+/Users/prestonbrown/Projects/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/ar/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/prestonbrown/Projects/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/ca/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/prestonbrown/Projects/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/cs/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/prestonbrown/Projects/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/da/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/prestonbrown/Projects/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/de/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/prestonbrown/Projects/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/el/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/prestonbrown/Projects/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/es/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/prestonbrown/Projects/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/fi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/prestonbrown/Projects/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/fr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/prestonbrown/Projects/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/he/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/prestonbrown/Projects/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/hi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/prestonbrown/Projects/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/hr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/prestonbrown/Projects/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/hu/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/prestonbrown/Projects/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/id/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/prestonbrown/Projects/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/it/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/prestonbrown/Projects/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/ja/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/prestonbrown/Projects/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/ko/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/prestonbrown/Projects/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/ms/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/prestonbrown/Projects/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/nb/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/prestonbrown/Projects/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/nl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/prestonbrown/Projects/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/pl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/prestonbrown/Projects/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/pt/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/prestonbrown/Projects/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/pt-BR/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/prestonbrown/Projects/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/ro/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/prestonbrown/Projects/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/ru/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/prestonbrown/Projects/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/sk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/prestonbrown/Projects/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/sv/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/prestonbrown/Projects/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/th/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/prestonbrown/Projects/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/tr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/prestonbrown/Projects/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/uk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/prestonbrown/Projects/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/vi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/prestonbrown/Projects/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/prestonbrown/Projects/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/prestonbrown/Projects/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/prestonbrown/Projects/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/MX3Hydration.iOS.csprojResolveAssemblyReference.cache
+/Users/prestonbrown/Projects/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/MX3Hydration.iOS.csproj.CoreCompileInputs.cache
+/Users/prestonbrown/Projects/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/MX3Hydration.iOS.exe
+/Users/prestonbrown/Projects/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/MX3Hydration.iOS.pdb
+/Users/prestonbrown/Projects/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/prestonbrown/Projects/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/System.Reactive.Core.dll
+/Users/prestonbrown/Projects/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/System.Reactive.Interfaces.dll
+/Users/prestonbrown/Projects/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/System.Reactive.Core.xml
+/Users/prestonbrown/Projects/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/System.Reactive.Interfaces.xml
+/Users/prestonbrown/Projects/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/MX3Hydration.iOS.exe.config
+/Users/prestonbrown/Projects/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/Reactive.Streams.dll
+/Users/prestonbrown/Projects/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/System.Reactive.Linq.dll
+/Users/prestonbrown/Projects/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/System.Reactive.PlatformServices.dll
+/Users/prestonbrown/Projects/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.xml
+/Users/prestonbrown/Projects/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/System.Reactive.Linq.xml
+/Users/prestonbrown/Projects/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/System.Reactive.PlatformServices.xml
+/Users/prestonbrown/Projects/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/MX3Hydration.iOS.csproj.MX3Hydration.iOS.exe.config
+/Users/prestonbrown/Projects/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/prestonbrown/Projects/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/actool/_PartialAppManifest.items
+/Users/prestonbrown/Projects/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/actool/_BundleResourceWithLogicalName.items
+/Users/prestonbrown/Projects/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/toolbarIcons/coachIcon.png
+/Users/prestonbrown/Projects/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/toolbarIcons/coachIcon@2x.png
+/Users/prestonbrown/Projects/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/toolbarIcons/coachIcon@3x.png
+/Users/prestonbrown/Projects/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/toolbarIcons/dashboardIcon.png
+/Users/prestonbrown/Projects/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/toolbarIcons/dashboardIcon@2x.png
+/Users/prestonbrown/Projects/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/toolbarIcons/dashboardIcon@3x.png
+/Users/prestonbrown/Projects/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/toolbarIcons/playerIcon.png
+/Users/prestonbrown/Projects/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/toolbarIcons/playerIcon@2x.png
+/Users/prestonbrown/Projects/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/toolbarIcons/playerIcon@3x.png
+/Users/prestonbrown/Projects/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/toolbarIcons/settingsIcon.png
+/Users/prestonbrown/Projects/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/toolbarIcons/settingsIcon@2x.png
+/Users/prestonbrown/Projects/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/toolbarIcons/settingsIcon@3x.png
+/Users/prestonbrown/Projects/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/toolbarIcons/trainerIcon.png
+/Users/prestonbrown/Projects/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/toolbarIcons/trainerIcon@2x.png
+/Users/prestonbrown/Projects/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/toolbarIcons/trainerIcon@3x.png
+/Users/prestonbrown/Projects/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/graph.png
+/Users/prestonbrown/Projects/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/graph@2x.png
+/Users/prestonbrown/Projects/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/graph@3x.png
+/Users/prestonbrown/Projects/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/logo/logo.png
+/Users/prestonbrown/Projects/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/placeHolder/logoHolder.png
+/Users/prestonbrown/Projects/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/placeHolder/logoHolder@2x.png
+/Users/prestonbrown/Projects/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/placeHolder/logoHolder@3x.png
+/Users/prestonbrown/Projects/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/pieFill/waterLevel1.png
+/Users/prestonbrown/Projects/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/pieFill/waterLevel1@2x.png
+/Users/prestonbrown/Projects/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/pieFill/waterLevel1@3x.png
+/Users/prestonbrown/Projects/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/pieFill/waterLevel2.png
+/Users/prestonbrown/Projects/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/pieFill/waterLevel2@2x.png
+/Users/prestonbrown/Projects/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/pieFill/waterLevel2@3x.png
+/Users/prestonbrown/Projects/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/pieFill/waterLevel3.png
+/Users/prestonbrown/Projects/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/pieFill/waterLevel3@2x.png
+/Users/prestonbrown/Projects/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/pieFill/waterLevel3@3x.png
+/Users/prestonbrown/Projects/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/pieFill/waterLevel4.png
+/Users/prestonbrown/Projects/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/pieFill/waterLevel4@2x.png
+/Users/prestonbrown/Projects/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/pieFill/waterLevel4@3x.png
+/Users/prestonbrown/Projects/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/pieFill/waterLevel5.png
+/Users/prestonbrown/Projects/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/pieFill/waterLevel5@2x.png
+/Users/prestonbrown/Projects/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/pieFill/waterLevel5@3x.png
+/Users/prestonbrown/Projects/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/pieFill/waterLevel6.png
+/Users/prestonbrown/Projects/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/pieFill/waterLevel6@2x.png
+/Users/prestonbrown/Projects/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/pieFill/waterLevel6@3x.png
+/Users/prestonbrown/Projects/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/pieFill/waterLevel7.png
+/Users/prestonbrown/Projects/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/pieFill/waterLevel7@2x.png
+/Users/prestonbrown/Projects/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/pieFill/waterLevel7@3x.png
+/Users/prestonbrown/Projects/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/pieFill/waterLevel8.png
+/Users/prestonbrown/Projects/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/pieFill/waterLevel8@2x.png
+/Users/prestonbrown/Projects/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/pieFill/waterLevel8@3x.png
+/Users/prestonbrown/Projects/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/pieFill/waterLevel9.png
+/Users/prestonbrown/Projects/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/pieFill/waterLevel9@2x.png
+/Users/prestonbrown/Projects/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/pieFill/waterLevel9@3x.png
+/Users/prestonbrown/Projects/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/pieFill/waterLevel10.png
+/Users/prestonbrown/Projects/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/pieFill/waterLevel10@2x.png
+/Users/prestonbrown/Projects/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/pieFill/waterLevel10@3x.png
+/Users/prestonbrown/Projects/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/placeHolder/playerPic.png
+/Users/prestonbrown/Projects/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/placeHolder/trainerPic.png
+/Users/prestonbrown/Projects/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/placeHolder/coachPic.png
+/Users/prestonbrown/Projects/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/MX3Hydration.iOS.exe.config
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/MX3Hydration.iOS.exe
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/MX3Hydration.iOS.pdb
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/MX3Hydration.dll
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/Reactive.Streams.dll
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/System.Reactive.Core.dll
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/System.Reactive.Interfaces.dll
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/System.Reactive.Linq.dll
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/System.Reactive.PlatformServices.dll
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/MX3Hydration.pdb
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.pdb
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll.mdb
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.xml
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.pdb
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll.mdb
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.pdb
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll.mdb
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.xml
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.xml
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/System.Reactive.Interfaces.xml
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/System.Reactive.Core.xml
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/System.Reactive.Linq.xml
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/System.Reactive.PlatformServices.xml
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/ar/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/ca/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/cs/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/da/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/de/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/el/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/es/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/fi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/fr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/he/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/hi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/hr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/hu/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/id/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/it/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/ja/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/ko/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/ms/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/nb/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/nl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/pl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/pt/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/pt-BR/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/ro/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/ru/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/sk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/sv/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/th/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/tr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/uk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/vi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/bin/iPhoneSimulator/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/actool/_PartialAppManifest.items
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/actool/_BundleResourceWithLogicalName.items
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/toolbarIcons/coachIcon.png
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/toolbarIcons/coachIcon@2x.png
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/toolbarIcons/coachIcon@3x.png
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/toolbarIcons/dashboardIcon.png
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/toolbarIcons/dashboardIcon@2x.png
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/toolbarIcons/dashboardIcon@3x.png
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/toolbarIcons/playerIcon.png
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/toolbarIcons/playerIcon@2x.png
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/toolbarIcons/playerIcon@3x.png
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/toolbarIcons/settingsIcon.png
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/toolbarIcons/settingsIcon@2x.png
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/toolbarIcons/settingsIcon@3x.png
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/toolbarIcons/trainerIcon.png
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/toolbarIcons/trainerIcon@2x.png
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/toolbarIcons/trainerIcon@3x.png
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/graph.png
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/graph@2x.png
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/graph@3x.png
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/logo/logo.png
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/placeHolder/logoHolder.png
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/placeHolder/logoHolder@2x.png
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/placeHolder/logoHolder@3x.png
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/pieFill/waterLevel1.png
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/pieFill/waterLevel1@2x.png
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/pieFill/waterLevel1@3x.png
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/pieFill/waterLevel2.png
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/pieFill/waterLevel2@2x.png
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/pieFill/waterLevel2@3x.png
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/pieFill/waterLevel3.png
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/pieFill/waterLevel3@2x.png
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/pieFill/waterLevel3@3x.png
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/pieFill/waterLevel4.png
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/pieFill/waterLevel4@2x.png
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/pieFill/waterLevel4@3x.png
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/pieFill/waterLevel5.png
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/pieFill/waterLevel5@2x.png
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/pieFill/waterLevel5@3x.png
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/pieFill/waterLevel6.png
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/pieFill/waterLevel6@2x.png
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/pieFill/waterLevel6@3x.png
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/pieFill/waterLevel7.png
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/pieFill/waterLevel7@2x.png
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/pieFill/waterLevel7@3x.png
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/pieFill/waterLevel8.png
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/pieFill/waterLevel8@2x.png
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/pieFill/waterLevel8@3x.png
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/pieFill/waterLevel9.png
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/pieFill/waterLevel9@2x.png
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/pieFill/waterLevel9@3x.png
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/pieFill/waterLevel10.png
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/pieFill/waterLevel10@2x.png
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/pieFill/waterLevel10@3x.png
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/placeHolder/playerPic.png
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/placeHolder/trainerPic.png
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/placeHolder/coachPic.png
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3.1/optimized/
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/MX3Hydration.iOS.csprojResolveAssemblyReference.cache
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/MX3Hydration.iOS.csproj.MX3Hydration.iOS.exe.config
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/MX3Hydration.iOS.csproj.CoreCompileInputs.cache
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/MX3Hydration.iOS.exe
+/Users/prestonbrown/Storage/Texas Devices/HydrationAppBackups/Backup2/MX3Hydration/iOS/obj/iPhoneSimulator/Debug/MX3Hydration.iOS.pdb

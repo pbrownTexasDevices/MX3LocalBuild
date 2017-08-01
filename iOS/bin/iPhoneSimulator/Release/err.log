@@ -1,0 +1,114 @@
+objc[90246]: Class VCWeakObjectHolder is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/System/Library/PrivateFrameworks/GameKitServices.framework/Frameworks/ViceroyTrace.framework/ViceroyTrace (0x12700fca8) and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/System/Library/PrivateFrameworks/GameKitServices.framework/Frameworks/AVConference.framework/AVConference (0x126f41cd0). One of the two will be used. Which one is undefined.
+objc[90246]: Class PLBuildVersion is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/System/Library/PrivateFrameworks/AssetsLibraryServices.framework/AssetsLibraryServices (0x124c94cc0) and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/System/Library/PrivateFrameworks/PhotoLibraryServices.framework/PhotoLibraryServices (0x124aab6f0). One of the two will be used. Which one is undefined.
+2017-07-11 14:53:25.678 MX3Hydration.iOS[90246:8224836] 
+Unhandled Exception:
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+  at System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) [0x00029] in <2f4074c3120b4d80802e10af84b67d41>:0 
+  at System.ThrowHelper.ThrowArgumentOutOfRangeException () [0x00000] in <2f4074c3120b4d80802e10af84b67d41>:0 
+  at System.Collections.Generic.List`1[T].get_Item (System.Int32 index) [0x00009] in <2f4074c3120b4d80802e10af84b67d41>:0 
+  at System.Collections.ObjectModel.Collection`1[T].get_Item (System.Int32 index) [0x00000] in <2f4074c3120b4d80802e10af84b67d41>:0 
+  at MX3Hydration.PlayerPage..ctor () [0x00052] in <c4e45975cca445b0a147daf3ed2a8f5f>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoCMethod:InternalInvoke (System.Reflection.MonoCMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00002] in <2f4074c3120b4d80802e10af84b67d41>:0 
+   --- End of inner exception stack trace ---
+  at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00017] in <2f4074c3120b4d80802e10af84b67d41>:0 
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x000a8] in <2f4074c3120b4d80802e10af84b67d41>:0 
+  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <2f4074c3120b4d80802e10af84b67d41>:0 
+  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <2f4074c3120b4d80802e10af84b67d41>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <2f4074c3120b4d80802e10af84b67d41>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <2f4074c3120b4d80802e10af84b67d41>:0 
+  at Xamarin.Forms.Xaml.CreateValuesVisitor.Visit (Xamarin.Forms.Xaml.ElementNode node, Xamarin.Forms.Xaml.INode parentNode) [0x00253] in <e53fc7074dab4ad8bba89c7f3e14cbfc>:0 
+  at Xamarin.Forms.Xaml.ElementNode.Accept (Xamarin.Forms.Xaml.IXamlNodeVisitor visitor, Xamarin.Forms.Xaml.INode parentNode) [0x000b1] in <e53fc7074dab4ad8bba89c7f3e14cbfc>:0 
+  at Xamarin.Forms.Xaml.ElementNode.Accept (Xamarin.Forms.Xaml.IXamlNodeVisitor visitor, Xamarin.Forms.Xaml.INode parentNode) [0x00054] in <e53fc7074dab4ad8bba89c7f3e14cbfc>:0 
+  at Xamarin.Forms.Xaml.ListNode.Accept (Xamarin.Forms.Xaml.IXamlNodeVisitor visitor, Xamarin.Forms.Xaml.INode parentNode) [0x00025] in <e53fc7074dab4ad8bba89c7f3e14cbfc>:0 
+  at Xamarin.Forms.Xaml.RootNode.Accept (Xamarin.Forms.Xaml.IXamlNodeVisitor visitor, Xamarin.Forms.Xaml.INode parentNode) [0x00054] in <e53fc7074dab4ad8bba89c7f3e14cbfc>:0 
+  at Xamarin.Forms.Xaml.XamlLoader.Visit (Xamarin.Forms.Xaml.RootNode rootnode, Xamarin.Forms.Xaml.HydratationContext visitorContext) [0x0005a] in <e53fc7074dab4ad8bba89c7f3e14cbfc>:0 
+  at Xamarin.Forms.Xaml.XamlLoader.Load (System.Object view, System.String xaml) [0x0005d] in <e53fc7074dab4ad8bba89c7f3e14cbfc>:0 
+  at Xamarin.Forms.Xaml.XamlLoader.Load (System.Object view, System.Type callingType) [0x0002f] in <e53fc7074dab4ad8bba89c7f3e14cbfc>:0 
+  at Xamarin.Forms.Xaml.Extensions.LoadFromXaml[TXaml] (TXaml view, System.Type callingType) [0x00000] in <e53fc7074dab4ad8bba89c7f3e14cbfc>:0 
+  at MX3Hydration.MainTabPage.InitializeComponent () [0x00000] in <c4e45975cca445b0a147daf3ed2a8f5f>:0 
+  at MX3Hydration.MainTabPage..ctor () [0x00006] in <c4e45975cca445b0a147daf3ed2a8f5f>:0 
+  at MX3Hydration.App..ctor () [0x0000c] in <c4e45975cca445b0a147daf3ed2a8f5f>:0 
+  at MX3Hydration.iOS.AppDelegate.FinishedLaunching (UIKit.UIApplication app, Foundation.NSDictionary options) [0x00005] in <10e821c288a1416982e3601e15892b1a>:0 
+--- End of stack trace from previous location where exception was thrown ---
+  at (wrapper managed-to-native) UIKit.UIApplication:UIApplicationMain (int,string[],intptr,intptr)
+  at UIKit.UIApplication.Main (System.String[] args, System.IntPtr principal, System.IntPtr delegate) [0x00005] in <58a9bd8a3cbb4d0092bc0a767ff66c0f>:0 
+  at UIKit.UIApplication.Main (System.String[] args, System.String principalClassName, System.String delegateClassName) [0x00038] in <58a9bd8a3cbb4d0092bc0a767ff66c0f>:0 
+  at MX3Hydration.iOS.Application.Main (System.String[] args) [0x00000] in <10e821c288a1416982e3601e15892b1a>:0 
+2017-07-11 14:53:25.682 MX3Hydration.iOS[90246:8224836] Unhandled managed exception:
+Exception has been thrown by the target of an invocation. (System.Reflection.TargetInvocationException)
+  at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00017] in <2f4074c3120b4d80802e10af84b67d41>:0 
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x000a8] in <2f4074c3120b4d80802e10af84b67d41>:0 
+  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <2f4074c3120b4d80802e10af84b67d41>:0 
+  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <2f4074c3120b4d80802e10af84b67d41>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <2f4074c3120b4d80802e10af84b67d41>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <2f4074c3120b4d80802e10af84b67d41>:0 
+  at Xamarin.Forms.Xaml.CreateValuesVisitor.Visit (Xamarin.Forms.Xaml.ElementNode node, Xamarin.Forms.Xaml.INode parentNode) [0x00253] in <e53fc7074dab4ad8bba89c7f3e14cbfc>:0 
+  at Xamarin.Forms.Xaml.ElementNode.Accept (Xamarin.Forms.Xaml.IXamlNodeVisitor visitor, Xamarin.Forms.Xaml.INode parentNode) [0x000b1] in <e53fc7074dab4ad8bba89c7f3e14cbfc>:0 
+  at Xamarin.Forms.Xaml.ElementNode.Accept (Xamarin.Forms.Xaml.IXamlNodeVisitor visitor, Xamarin.Forms.Xaml.INode parentNode) [0x00054] in <e53fc7074dab4ad8bba89c7f3e14cbfc>:0 
+  at Xamarin.Forms.Xaml.ListNode.Accept (Xamarin.Forms.Xaml.IXamlNodeVisitor visitor, Xamarin.Forms.Xaml.INode parentNode) [0x00025] in <e53fc7074dab4ad8bba89c7f3e14cbfc>:0 
+  at Xamarin.Forms.Xaml.RootNode.Accept (Xamarin.Forms.Xaml.IXamlNodeVisitor visitor, Xamarin.Forms.Xaml.INode parentNode) [0x00054] in <e53fc7074dab4ad8bba89c7f3e14cbfc>:0 
+  at Xamarin.Forms.Xaml.XamlLoader.Visit (Xamarin.Forms.Xaml.RootNode rootnode, Xamarin.Forms.Xaml.HydratationContext visitorContext) [0x0005a] in <e53fc7074dab4ad8bba89c7f3e14cbfc>:0 
+  at Xamarin.Forms.Xaml.XamlLoader.Load (System.Object view, System.String xaml) [0x0005d] in <e53fc7074dab4ad8bba89c7f3e14cbfc>:0 
+  at Xamarin.Forms.Xaml.XamlLoader.Load (System.Object view, System.Type callingType) [0x0002f] in <e53fc7074dab4ad8bba89c7f3e14cbfc>:0 
+  at Xamarin.Forms.Xaml.Extensions.LoadFromXaml[TXaml] (TXaml view, System.Type callingType) [0x00000] in <e53fc7074dab4ad8bba89c7f3e14cbfc>:0 
+  at MX3Hydration.MainTabPage.InitializeComponent () [0x00000] in <c4e45975cca445b0a147daf3ed2a8f5f>:0 
+  at MX3Hydration.MainTabPage..ctor () [0x00006] in <c4e45975cca445b0a147daf3ed2a8f5f>:0 
+  at MX3Hydration.App..ctor () [0x0000c] in <c4e45975cca445b0a147daf3ed2a8f5f>:0 
+  at MX3Hydration.iOS.AppDelegate.FinishedLaunching (UIKit.UIApplication app, Foundation.NSDictionary options) [0x00005] in <10e821c288a1416982e3601e15892b1a>:0 
+--- End of stack trace from previous location where exception was thrown ---
+  at (wrapper managed-to-native) UIKit.UIApplication:UIApplicationMain (int,string[],intptr,intptr)
+  at UIKit.UIApplication.Main (System.String[] args, System.IntPtr principal, System.IntPtr delegate) [0x00005] in <58a9bd8a3cbb4d0092bc0a767ff66c0f>:0 
+  at UIKit.UIApplication.Main (System.String[] args, System.String principalClassName, System.String delegateClassName) [0x00038] in <58a9bd8a3cbb4d0092bc0a767ff66c0f>:0 
+  at MX3Hydration.iOS.Application.Main (System.String[] args) [0x00000] in <10e821c288a1416982e3601e15892b1a>:0 
+ --- inner exception ---
+Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index (System.ArgumentOutOfRangeException)
+  at System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) [0x00029] in <2f4074c3120b4d80802e10af84b67d41>:0 
+  at System.ThrowHelper.ThrowArgumentOutOfRangeException () [0x00000] in <2f4074c3120b4d80802e10af84b67d41>:0 
+  at System.Collections.Generic.List`1[T].get_Item (System.Int32 index) [0x00009] in <2f4074c3120b4d80802e10af84b67d41>:0 
+  at System.Collections.ObjectModel.Collection`1[T].get_Item (System.Int32 index) [0x00000] in <2f4074c3120b4d80802e10af84b67d41>:0 
+  at MX3Hydration.PlayerPage..ctor () [0x00052] in <c4e45975cca445b0a147daf3ed2a8f5f>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoCMethod:InternalInvoke (System.Reflection.MonoCMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00002] in <2f4074c3120b4d80802e10af84b67d41>:0 
+2017-07-11 14:53:25.682 MX3Hydration.iOS[90246:8224836] critical: Stacktrace:
+
+2017-07-11 14:53:25.682 MX3Hydration.iOS[90246:8224836] critical: 
+Native stacktrace:
+
+2017-07-11 14:53:25.689 MX3Hydration.iOS[90246:8224836] critical: 	0   MX3Hydration.iOS                    0x000000010de06c31 mono_handle_native_crash + 257
+2017-07-11 14:53:25.689 MX3Hydration.iOS[90246:8224836] critical: 	1   libsystem_platform.dylib            0x000000011aad5bba _sigtramp + 26
+2017-07-11 14:53:25.689 MX3Hydration.iOS[90246:8224836] critical: 	2   libsystem_pthread.dylib             0x000000011aaf32c8 _pthread_keys + 9720
+2017-07-11 14:53:25.689 MX3Hydration.iOS[90246:8224836] critical: 	3   libsystem_c.dylib                   0x000000011a84488f abort + 127
+2017-07-11 14:53:25.690 MX3Hydration.iOS[90246:8224836] critical: 	4   MX3Hydration.iOS                    0x000000010df9dad2 xamarin_unhandled_exception_handler + 34
+2017-07-11 14:53:25.690 MX3Hydration.iOS[90246:8224836] critical: 	5   MX3Hydration.iOS                    0x000000010de66f14 mono_invoke_unhandled_exception_hook + 148
+2017-07-11 14:53:25.690 MX3Hydration.iOS[90246:8224836] critical: 	6   MX3Hydration.iOS                    0x000000010de06991 mono_handle_exception_internal + 4913
+2017-07-11 14:53:25.690 MX3Hydration.iOS[90246:8224836] critical: 	7   MX3Hydration.iOS                    0x000000010de05658 mono_handle_exception + 24
+2017-07-11 14:53:25.690 MX3Hydration.iOS[90246:8224836] critical: 	8   MX3Hydration.iOS                    0x000000010dd8955f mono_amd64_throw_exception + 143
+2017-07-11 14:53:25.690 MX3Hydration.iOS[90246:8224836] critical: 	9   ???                                 0x000000012ca1cae7 0x0 + 5043768039
+2017-07-11 14:53:25.691 MX3Hydration.iOS[90246:8224836] critical: 	10  MX3Hydration.iOS                    0x000000010dfa0dfb xamarin_invoke_trampoline + 3067
+2017-07-11 14:53:25.691 MX3Hydration.iOS[90246:8224836] critical: 	11  MX3Hydration.iOS                    0x000000010dfa295e xamarin_arch_trampoline + 78
+2017-07-11 14:53:25.691 MX3Hydration.iOS[90246:8224836] critical: 	12  MX3Hydration.iOS                    0x000000010dfa35b6 xamarin_x86_64_common_trampoline + 110
+2017-07-11 14:53:25.691 MX3Hydration.iOS[90246:8224836] critical: 	13  UIKit                               0x000000010f1079b7 -[UIApplication _handleDelegateCallbacksWithOptions:isSuspended:restoreState:] + 299
+2017-07-11 14:53:25.691 MX3Hydration.iOS[90246:8224836] critical: 	14  UIKit                               0x000000010f10929c -[UIApplication _callInitializationDelegatesForMainScene:transitionContext:] + 4119
+2017-07-11 14:53:25.691 MX3Hydration.iOS[90246:8224836] critical: 	15  UIKit                               0x000000010f10f5e4 -[UIApplication _runWithMainScene:transitionContext:completion:] + 1709
+2017-07-11 14:53:25.691 MX3Hydration.iOS[90246:8224836] critical: 	16  UIKit                               0x000000010f10c7f3 -[UIApplication workspaceDidEndTransaction:] + 182
+2017-07-11 14:53:25.692 MX3Hydration.iOS[90246:8224836] critical: 	17  FrontBoardServices                  0x000000011ade55f6 __FBSSERIALQUEUE_IS_CALLING_OUT_TO_A_BLOCK__ + 24
+2017-07-11 14:53:25.692 MX3Hydration.iOS[90246:8224836] critical: 	18  FrontBoardServices                  0x000000011ade546d -[FBSSerialQueue _performNext] + 186
+2017-07-11 14:53:25.692 MX3Hydration.iOS[90246:8224836] critical: 	19  FrontBoardServices                  0x000000011ade57f6 -[FBSSerialQueue _performNextFromRunLoopSource] + 45
+2017-07-11 14:53:25.692 MX3Hydration.iOS[90246:8224836] critical: 	20  CoreFoundation                      0x00000001193b4c01 __CFRUNLOOP_IS_CALLING_OUT_TO_A_SOURCE0_PERFORM_FUNCTION__ + 17
+2017-07-11 14:53:25.692 MX3Hydration.iOS[90246:8224836] critical: 	21  CoreFoundation                      0x000000011939a0cf __CFRunLoopDoSources0 + 527
+2017-07-11 14:53:25.692 MX3Hydration.iOS[90246:8224836] critical: 	22  CoreFoundation                      0x00000001193995ff __CFRunLoopRun + 911
+2017-07-11 14:53:25.692 MX3Hydration.iOS[90246:8224836] critical: 	23  CoreFoundation                      0x0000000119399016 CFRunLoopRunSpecific + 406
+2017-07-11 14:53:25.693 MX3Hydration.iOS[90246:8224836] critical: 	24  UIKit                               0x000000010f10b08f -[UIApplication _run] + 468
+2017-07-11 14:53:25.693 MX3Hydration.iOS[90246:8224836] critical: 	25  UIKit                               0x000000010f111134 UIApplicationMain + 159
+2017-07-11 14:53:25.693 MX3Hydration.iOS[90246:8224836] critical: 	26  ???                                 0x000000012cad4525 0x0 + 5044520229
+2017-07-11 14:53:25.693 MX3Hydration.iOS[90246:8224836] critical: 	27  ???                                 0x000000012cad4390 0x0 + 5044519824
+2017-07-11 14:53:25.693 MX3Hydration.iOS[90246:8224836] critical: 
+=================================================================
+Got a SIGABRT while executing native code. This usually indicates
+a fatal error in the mono runtime or one of the native libraries 
+used by your application.
+=================================================================
+

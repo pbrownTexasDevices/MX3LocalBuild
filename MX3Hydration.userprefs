@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{876A0830-501D-4AE9-8E93-F319C7CB6EB6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MX3Hydration/Pages/PlayerPage.xaml">
+    <Files>
+      <File FileName="MX3Hydration/AddPlayerPage.xaml" Line="5" Column="38" />
+      <File FileName="MX3Hydration/AddPlayerPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="MX3Hydration/Pages/PlayerPage.xaml.cs" Line="22" Column="29" />
+      <File FileName="MX3Hydration/Pages/PlayerPage.xaml" Line="311" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MX3Hydration.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.606D8656-FC8D-4959-A5DE-2D9BA9A4B55F" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MX3Hydration.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+</Properties>
